@@ -5,13 +5,11 @@ I, Masum Ahmed, here launch my first project, project150. This project was made 
 website_link:  <a href="http://sust.virtualcr.tk/">  virtualCR </a>
 <br>
 <br>
-Some Screenshots:<br><br>
-<p style="font-family:Ubuntu"> Hey Welcome! </p>
-<br>
+Some Screenshots:<br>
+<p style="font-family:Consolas"> Hey Welcome! </p>
 <img src="Screenshots/Capture7.jpg">
 <br><br>
-<p style="font-family:Ubuntu"> Login Page </p>
-<br>
+<p style="font-family:Consolas"> Login Page </p>
 <img src="Screenshots/Capture.jpg">
 <br>
 
