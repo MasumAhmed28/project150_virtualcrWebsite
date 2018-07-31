@@ -27,6 +27,6 @@ website_link <a href="http://sust.virtualcr.tk/">  virtualCR </a>
 <p style="font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Ubuntu;"> Gallery of SUST <br>All Credit goes to Anjan Vai</p>
 <img src="Screenshots/Capture9.jpg">
 <br>
-Computer Science and Engineering, <br>
-Shahjalal University of Science and Technology (SUST), <br>
+Computer Science and Engineering <br>
+Shahjalal University of Science and Technology (SUST) <br>
 3114, University Ave, Sylhet.<br>
