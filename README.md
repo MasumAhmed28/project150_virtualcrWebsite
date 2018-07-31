@@ -24,8 +24,7 @@ website_link <a href="http://sust.virtualcr.tk/">  virtualCR </a>
 <p style="font-family:Consolas"> Mother Page (End) </p>
 <img src="Screenshots/Capture5.jpg">
 <br>
-<p style="font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Ubuntu;"> Gallery of SUST </p>
-<a> All Credit goes to Anjan Vai </a>
+<p style="font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Ubuntu;"> Gallery of SUST <br>All Credit goes to Anjan Vai</p>
 <img src="Screenshots/Capture9.jpg">
 <br>
 Computer Science and Engineering, <br>
