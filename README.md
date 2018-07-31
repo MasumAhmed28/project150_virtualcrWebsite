@@ -6,7 +6,7 @@ website_link:  <a href="http://sust.virtualcr.tk/"> virtualCR </a>
 <br>Some Screenshots:<br>
 <img src="Screenshots/Capture.PNG">
 <br>
-<img src="Screenshots/Capture2.PNG">
+<img src="Screenshots/Capture1.PNG">
 <br>
 
 Computer Science and Engineering, <br>
